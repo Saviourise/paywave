@@ -75,12 +75,9 @@ button:hover {
         padding: 20px;
     }
 
-    .text-section, .logo {
-        margin-bottom: 20px;
-    }
-
     .text-section p {
         font-size: 15px;
+        text-align: justify;
     }
 
     .input-section {
